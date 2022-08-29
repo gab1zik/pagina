@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    border: 0px;
+    pad: 0px;
+
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: mediumorchid;
+
+}
+img#hero{height: 350px;
+border-radius: 100%;
+margin: 50px;
+}
+
+
+h1#hero{
+    color: black;
+    font-family: 'Michroma', sans-serif;
+    font-size: 70px;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style:none;
+}
