@@ -58,9 +58,13 @@ footer {
     bottom: 0px;
     width: 50px;
     display: flex;
+    align-items: center;
 
 }
 
  nav ul li:hover{
     background-color: gray;
+}
+#nome{
+    text-align: center;
 }
